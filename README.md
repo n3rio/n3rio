@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Django backend developer for Genome Digital
+- 🌱 I’m currently learning Ruby (RoR)
+- 📫 How to reach me:
+  - nrincon.mr@gmail.com
 <!--
 **n3rio/n3rio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
