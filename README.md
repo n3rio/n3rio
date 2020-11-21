@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Django backend developer for Genome Digital
-- 🌱 I’m currently learning Ruby (RoR)
+- 🌱 learning Ruby (RoR)
+- 🌱 learning GO
+- 🌱 learning Flutter
 - 📫 How to reach me:
   - nrincon.mr@gmail.com
 <!--
