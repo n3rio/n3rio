@@ -1,6 +1,12 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a Django backend developer for Genome Digital
+- 🔭 I’m currently working as a Django backend developer for AMP Agency
 - 🌱 learning GO
+- 🌱 learning Ruby
+
+### CodeWars Badges
+![](https://www.codewars.com/users/n3rio/badges/large)
+
+
 
 <!--
 **n3rio/n3rio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
