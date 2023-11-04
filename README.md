@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a Backend developer for AMP Agency
-- 🌱 learning GO
 - 🌱 learning Ruby
 
 ### CodeWars Badges
